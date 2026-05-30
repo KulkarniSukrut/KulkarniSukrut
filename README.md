@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @KulkarniSukrut
-- 👀 I’m interested in tech, music, automobiles
-- 🌱 I’m currently learning in Jain University Blr 
-- 💞️ I’m looking to collaborate on AI and ml-based projects
-- 📫 How to reach me on Linkedin @SukrutKulkarni
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cooking too
+🚀 Building the future with AI, one project at a time.
 
-# 💫 About Me:
-I’m a driven and zealous Computer Science undergraduate at Jain (Deemed-to-be University), with a strong focus on Artificial Intelligence and Machine Learning. I aspire to build a career in this domain by developing impactful projects and gaining hands-on experience through internships.<br><br>Alongside my passion for AI/ML, I’m also exploring emerging areas like cybersecurity, embedded systems, and other branches of tech that excite me with their real-world applications. I believe that having a broad technical foundation strengthens my ability to innovate and adapt across domains.<br><br>Outside academics, I enjoy music, video editing, and photography—creative interests that fuel my problem-solving mindset and bring a fresh perspective to my work.<br><br>I'm eager to collaborate, contribute to cutting-edge tech, and grow through continuous learning and experimentation in both AI/ML and beyond.  
+I'm a Computer Science undergraduate focused on Artificial Intelligence & Machine Learning, with a passion for creating impactful technology and solving challenging problems. From AI systems to Deep learning, RAG, emerging tech, I thrive on learning, building, and pushing ideas into reality.
+
+I believe great engineers never stop exploring.
+
+Always open to collaborations, internships, and ambitious projects.
 
 
 ## 🌐 Socials:
