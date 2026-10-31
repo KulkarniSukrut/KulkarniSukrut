@@ -38,13 +38,10 @@ Sukrutk6@gmail.com
 
 <p align="left">
 
-<a href="www.linkedin.com/in/sukrutkulkarni06" target="_blank">
+<a href="https://www.linkedin.com/in/sukrutkulkarni06" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 
-<a href="https://www.instagram.com/the_rippedaf._/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="30"/>
-</a>
 
 <a href="mailto:sukrutk6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
